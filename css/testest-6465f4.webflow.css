@@ -89,7 +89,7 @@ a {
 
 .taskbar {
   width: 100%;
-  background-color: orange;
+  background-color: #07d793;
   border-top: 1px solid #fff;
   flex: none;
   justify-content: space-between;
@@ -110,7 +110,7 @@ a {
   color: #000;
   text-align: center;
   letter-spacing: 1px;
-  background-color: orange;
+  background-color: #07d793;
   border: 1px solid #000;
   border-color: #fff #000 #000 #fff;
   padding: 0;
